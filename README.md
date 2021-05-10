@@ -1,8 +1,8 @@
 # What projectron is?
 
-**I founded *projectron* with vision and aim for helping students who are not able to make major and minor projects during their collage time.**<br>
+**I founded *projectron* with vision and aim for helping students who are not able to make major and minor projects during their college time.**<br>
 ### Why major and minor project?
-**Major and minor projects are very important during collage time and during jobs and interview. <br>At a collage level projects are a part of learning, and at jobs its a matter 
+**Major and minor projects are very important during college time and during jobs and interview. <br>At a college level projects are a part of learning, and at jobs its a matter 
 of interest for recruiter**
 
 ### Best for developers who want to help students.
